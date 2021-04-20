@@ -1,6 +1,7 @@
 # bioinformatics
 
 A new Flutter project.
+String Search Algorithms used to look for specific text in long sequence
 
 ## Getting Started
 
