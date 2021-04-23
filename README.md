@@ -3,6 +3,9 @@
 A new Flutter project.
 String Search Algorithms used to look for specific text in long sequence
 
+#video explain the app
+https://drive.google.com/file/d/1Ijeddih4b3fEsEURYI8vhVRJXcGt1Zex/view?usp=sharing
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
